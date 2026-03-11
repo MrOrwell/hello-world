@@ -1,5 +1,3 @@
-# hello-world
+# about me
 
-I just started to learn about coding, my first steps were learning html and a bit of javascript. Now I want to learn some Languages (Java and then Dart) to create my own apps for android.
-I plan to use flutter with Git and Android Studio, the editor I want to use is VS (Visual Studio Code)
-Wish me luck, I'll try my best!
+I am a Biologist currently working in the field of environmental molecular biology with a focus on plant science.
